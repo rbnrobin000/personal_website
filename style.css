@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.section_1{
+    background-image: url('images/header-bg.png');
+    background-repeat: no-repeat;
+    height: 700px;
+    padding-left: 150px;
+    padding-top: 120px;
+}
+.half_part{
+    width: 50%;
+    float: left;
+}
+.half_part img{
+    width: 75%;
+}
+.half_part h3{
+    font-family: 'Poppins Thin', sans-serif;
+    font-weight: 100px;
+    font-size: 30px;
+}
+.half_part h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900px;
+    font-size: 40px;
+}
+.pink_highlight{
+    color: #EC4C7A;
+}
+.color_gray{
+    color: gray;
+}
+.half_part p{
+    color: gray;
+}
+.half_part a{
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(45deg, #EC4C7A, #fe7595);
+    border-radius: 5px;
+    padding: 8px 30px;
+    font-weight: 700px;
+    color: white;
+}
+.section_2{
+    background-image: url('images/biography-bg.png');
+    background-repeat: no-repeat;
+    height: 700px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 100px;
+}
+.section_3{
+    background-image: url('images/latest-work-bg.png');
+    background-repeat: no-repeat;
+    height: 500px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 50px;
+}
+.section_3 img{
+    width: 30%;
+    margin-right: 35px;
+}
+.section_3 h2{
+    font-family: 'Poppins Thin', sans-serif;
+    font-weight: 100px;
+    font-size: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.section_4{
+    background-image: url('images/footer-bg.png');
+    background-repeat: no-repeat;
+    height: 600px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 50px;
+    font-family: 'Poppins Thin', sans-serif;
+    font-weight: 100px;
+    text-align: center;
+}
+.section_4 h1{
+    font-size: 40px;
+    margin-bottom: 70px;
+}
+.p_margin{
+    margin-bottom: 40px;
+}
+.msg{
+    display: inline-block;
+    background-image: linear-gradient(45deg, #EC4C7A, #fe7595);
+    border-radius: 10px;
+    padding: 40px 230px;
+    font-weight: 100px;
+    color: white;
+    margin-bottom: 100px;
+}
+.bottom_padding{
+    padding-bottom: 20px;
+}
